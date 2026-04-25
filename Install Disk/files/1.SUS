@@ -1,0 +1,19 @@
+
+    ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+    บ            SETUP PROGRAM FOR SOCIAL CREDIT TEST 3.30             บ
+    บ                       (C) MICROHARD, 2026                        บ
+    ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+    This program sets up the Chinese Social Credit Test 3.30. It copies
+    the files needed for the game to work. It also creates the directory 
+    named \SCT for the game files. For now, insert the Game Disk in drive B:
+    then press ENTER or any other keys. If you want to quit, press 
+    Ctrl+Break or Ctrl+Scroll.
+
+
+
+
+   Note: Install Disk should be in drive A: before inserting the Game Disk
+         in drive B:. Otherwise, it might not work when you switch the 
+         diskettes or use it in other drives. Also, if you don't have
+         BASRUN20.exe, we will put it to \SCT and install it for you.
+
