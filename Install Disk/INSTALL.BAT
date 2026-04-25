@@ -1,3 +1,5 @@
+rem DOS line
+
 echo off
 cls
 type a:\1.sus
