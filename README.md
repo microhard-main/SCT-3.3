@@ -1,4 +1,4 @@
-# Rules
+# Rules for contributing
 Before you start making changes, message me on Discord (@microhard_main), and I will either accept it or decline it.
 
 # Repository rules for the version
